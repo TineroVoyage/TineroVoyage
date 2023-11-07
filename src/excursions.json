@@ -1,0 +1,586 @@
+{
+  "activeExcursions": [
+    {
+      "imageUrl": "/cardImages/budapesta2024.jpg",
+      "cardTitle": "Budapesta",
+      "cardDescription": "Te invităm să te alături unei experiențe unice de Revelion în inima Budapestei, un oraș cu o istorie bogată și atmosferă vibrantă!",
+      "cardSubtitle": "Revelion 2023/2024",
+      "path": "reveliontinerovoyage",
+      "formLink": "https://forms.gle/WB49F4BZqMqweDfo7",
+      "title": " Revelion în Budapesta 28 Decembrie - 2 Ianuarie",
+      "description": "Revelionul la Budapesta: O experiență fascinantă într-un oraș plin de magie. Descoperă cele mai mari băi termale din Europa, admiră arhitectura uimitoare și petrece Noaptea de Revelion într-un eveniment Pub Crawl memorabil. Rezervă-ți locul acum și fă parte dintr-o aventură festivă la începutul noului an în Budapesta.",
+      "schedule": [
+        {
+          "day": "Ziua 1",
+          "title": "28 decembrie - Plecare din București",
+          "steps": [
+            "Plecare din București cu autocarul către Budapesta în jurul orei 22:00",
+            "Timp estimat de călătorie: aproximativ 14 -16 ore, în funcție de trafic și formalitățile de frontieră.",
+            "Va fi nevoie să aveți asupra dvs.  sau carte de identitate valabilă."
+          ]
+        },
+        {
+          "day": "Ziua 2",
+          "title": "29 decembrie - Sosire în Budapesta",
+          "steps": [
+            "Sosire în Budapesta în jurul orei 12:00. Check-in la hotelul Millennium sau echivalent.",
+            "Masa de prânz la un restaurant tradițional.",
+            "Se va vizita: Podul cu Lanțuri (Széchenyi Lánchíd), Castelul Buda și Bastionul Pescarilor",
+            "Seara se va organiza o croazieră pentru a admira o altă față a Budapestei de pe Dunăre într-o croazieră turistică cu o băutură de bun venit (costul este de aproximativ 60RON). Vom admira faimoasele poduri, Castelul Buda și Várkert Bazár și priveliștile panoramice."
+          ]
+        },
+        {
+          "day": "Ziua 3",
+          "title": "30 decembrie - Zi de relaxare",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Dimineața la ora 10:30, se plecă spre băile termale Széchenyi - cele mai mari și cele mai cunoscute băi termale din Budapesta. Biletul de intrare costă aproximativ 9400HUF (130RON).  Plecarea de la băile termale Széchenyi va fi în jurul orei 16:30.",
+            "Seara se va organiza o plimbare prin oraș cu tot grupul."
+          ]
+        },
+        {
+          "day": "Ziua 4",
+          "title": "31 decembrie - Pregătire pentru Revelion",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Se pot vizita cele mai importante atracții din Budapesta, precum: Muzeul Etnografic Maghiar, Piața Deák Ferenc, Parlamentul Ungariei​",
+            "Seara de Revelion: Participați la un eveniment Pub Crawl special de Revelion în Budapesta. Acesta vă va oferi ocazia de a experimenta atmosfera festivă a orașului și de a vizita mai multe baruri și cluburi populare."
+          ]
+        },
+        {
+          "day": "Ziua 5",
+          "title": "1 ianuarie - Timp liber și întoarcerea spre București",
+          "steps": [
+            "Mic dejun la hotel și check-out.",
+            "Continuați să explorați Budapesta în timpul zilei, seara ne vom pregăti pentru intoarcerea spre București (ora plecării se va fixa în funcție de starea vremii și a drumurilor)."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "title": "Pretul excursiei tale este de  299 euro și cuprinde:",
+          "step": [
+            "Transportul cu autocarul pe ruta București - Budapesta - București",
+            "Cazarea timp de 3 nopți la hotel în camere de 2,3 și 4 persoane",
+            "Mic dejun de tip bufet suedez",
+            "Consultanță și îndrumare pentru vizitarea orașului pe parcursul călătoriei;"
+          ]
+        },
+        {
+          "title": "In prețul excursiei nu este inclus: ",
+          "step": [
+            "Asigurare medicală;",
+            "Intrările la obiective și petrecerea din Noaptea de Revelion;"
+          ]
+        },
+        {
+          "title": "După completarea formularului de înscriere, vei primi confirmarea acceptării prin email, împreună cu toate detaliile necesare privind achitarea excursiei.",
+          "step": []
+        },
+        {
+          "title": "Excursia poate fi achitată în 3 rate. Prima tranșă de 100 euro la maximum 15 zile de la confirmarea participării, a doua tranșă de 100 de euro până la data de 15 Noiembrie, iar ultima tranșă de 99 euro până la data de 4 Decembrie.",
+          "step": []
+        }
+      ]
+    }
+  ],
+  "inactiveExcursions": [
+    {
+      "imageUrl": "/cardImages/budapestaCard.jpg",
+      "cardTitle": "Budapesta",
+      "cardDescription": "Excursia în Budapesta, în perioada 20-23 septembrie s-a finalizat.",
+      "cardSubtitle": "20 - 23 Septembrie",
+      "path": "ExcursieBudapestaSeptembrie",
+      "formLink": "",
+      "title": " Budapesta 20-23 Septembrie",
+      "description": "Îmbrățișați farmecul acestui oraș captivant, cu băi termale relaxante, clădiri impresionante și o viață de noapte animată. Vizitați ruinele băilor și descoperiți cultura și bucătăria maghiară autentică, alături de un grup entuziast de tineri dornici să trăiască aventura împreună.",
+      "schedule": [
+        {
+          "day": "Ziua 1",
+          "title": "20 Septembrie - Plecarea din București",
+          "steps": [
+            "Plecare din București cu autocarul către Budapesta în jurul orei 21:00",
+            "Timp estimat de călătorie: aproximativ 10-12 ore, în funcție de trafic și formalitățile de frontieră.",
+            "Va fi nevoie să aveți asupra dvs. pașaport sau carte de identitate valabilă."
+          ]
+        },
+        {
+          "day": "Ziua 2",
+          "title": "21 Septembrie- Explorarea orașului Budapesta",
+          "steps": [
+            "Sosire în Budapesta dimineața devreme (în jurul orei 8:00).",
+            "Transfer la hotel și check-in, iar ulterior vizitarea principalelor atracții ale orașului:",
+            "Parlamentul Ungariei - unul dintre cele mai frumoase și mai mari parlamente din lume.",
+            "Bastionul Pescarilor - un loc minunat pentru a avea o panoramă asupra orașului. ",
+            "Catedrala Sfântul Ștefan - cel mai important lăcaș de cult din Budapesta.",
+            "Podul cu Lanțuri - unul dintre cele mai cunoscute poduri din Budapesta. ",
+            "Cina în oraș pentru a degusta bucatele tradiționale maghiare.",
+            "Seara se va organiza o croazieră pentru a admira o altă față a Budapestei de pe Dunăre într-o croazieră turistică cu o băutură de bun venit (costul este de aproximativ 60RON). Vom admira faimoasele poduri, Castelul Buda și Várkert Bazár și priveliștile panoramice."
+          ]
+        },
+        {
+          "day": "Ziua 3",
+          "title": "22 Septembrie - Băile termale ",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Dimineața la ora 09:30, se plecă spre băile termale Széchenyi - cele mai mari și cele mai cunoscute băi termale din Budapesta. Biletul de intrare costă aproximativ 9400HUF (130RON).  Plecarea de la băile termale Széchenyi va fi în jurul orei 18:00.",
+            "Cina în oraș sau la hotel.",
+            "Petrecerea de tip THE LONGEST RUNNING PUB CRAWL & RUIN BAR TOUR IN BUDAPEST , participarea costă aproximativ 7300HUF (100RON)."
+          ]
+        },
+        {
+          "day": "Ziua 4",
+          "title": "23 Septembrie- Timp liber și întoarcerea spre București",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Se pot vizita cele mai importante atracții din Budapesta, precum: Muzeul Etnografic Maghiar, Piața Deák Ferenc, Parlamentul Ungariei​",
+            "La ora 15:00, începeți călătoria de întoarcere către București cu autocarul.",
+            "Sosirea în București seara târziu."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "title": "Pretul excursiei tale este de  149 euro și cuprinde:",
+          "step": [
+            "Transportul cu autocarul pe ruta București - Budapesta - București",
+            "Cazarea timp de 3 nopți la hotel în camere de 2,3 și 4 persoane",
+            "Mic dejun de tip bufet suedez",
+            "Consultanță și îndrumare pentru vizitarea orașului pe parcursul călătoriei;"
+          ]
+        },
+        {
+          "title": "In prețul excursiei nu este inclus: ",
+          "step": [
+            "Asigurare medicală;",
+            "Intrările la obiective și petrecerea din Noaptea de Revelion;"
+          ]
+        },
+        {
+          "title": "După completarea formularului de înscriere, vei primi confirmarea acceptării prin email, împreună cu toate detaliile necesare privind achitarea excursiei.",
+          "step": []
+        },
+        {
+          "title": "Excursia poate fi achitată în 2 rate. Prima tranșă de 100 euro la maximum 7 zile de la confirmarea participării, a doua tranșă de 49 de euro până la data de 1 Septembrie.",
+          "step": []
+        }
+      ]
+    },
+    {
+      "imageUrl": "/cardImages/venetiaCard.jpg",
+      "cardTitle": "Veneția",
+      "cardDescription": "Excursia în Veneția, în perioada 10-15 septembrie s-a finalizat.",
+      "cardSubtitle": "Veneția 10 - 15 Septembrie",
+      "path": "ExcursieVenetia10-15.09.2023",
+      "formLink": "",
+      "title": " Excursie Veneția",
+      "description": "Veneția, bijuteria lagunară a Italiei, te cucerește cu romantismul său unic. Străbătut de canale în loc de străzi, acest oraș plin de istorie emană eleganță prin palatele sale gotice și baroce. Piața San Marco impresionează prin arhitectura sa magnifică, iar podurile iconice, cum ar fi Rialto, te poartă într-o călătorie desprinsă din povești. Delectează-te cu experiența unei plimbări în gondolă sau explorează labirinturile străduțelor în căutarea magazinelor de suveniruri și mâncăruri tradiționale.",
+      "schedule": [
+        {
+          "day": "Ziua 1",
+          "title": "15 septembrie (seara) - Plecare din București",
+          "steps": [
+            "Întâlnirea participanților în jurul orei 21:00 pentru îmbarcare în autocar.",
+            "Plecare din București în jurul orei 22:00.",
+            "Noapte în autocar.",
+            "Va fi nevoie să aveți asupra dvs. pașaport sau carte de identitate valabilă."
+          ]
+        },
+        {
+          "day": "Ziua 2",
+          "title": "16 septembrie- Sosire în Veneția",
+          "steps": [
+            "Continuarea călătoriei cu autocarul prin diverse opriri și pauze.",
+            "Sosire în provincia Marghera în timpul după-amiezei.",
+            "Check-in la hotel, camerele vor fi de 2,3 și 4 persoane.",
+            "Seara: O plimbare de seară prin piața centrală a Margherei, sau Parcul San Giuliano."
+          ]
+        },
+        {
+          "day": "Ziua 3",
+          "title": "17 septembrie- Descoperirea Veneției",
+          "steps": [
+            "Mic dejun la hotel.",
+            "La ora 09:30 se pleacă spre Veneția cu transportul în comun, drumul durează aproximativ 15 min.",
+            "Plimbare în grup pe canalele și străduțele înguste ale Veneției.",
+            "Vizitarea Piața San Marco, Basilica San Marco și Ponte Rialto.",
+            "Prânz într-un restaurant local.",
+            "Călătorie în vaporetto pe Canalul Mare.",
+            "Seara: Activități de socializare."
+          ]
+        },
+        {
+          "day": "Ziua 4",
+          "title": "18 septembrie- Explorare și cunoaștere",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Excursie de o zi cu barca la insulele din lagună: Murano, Burano și Torcello.",
+            "Vizitarea atelierelor de sticlă din Murano și explorarea coloratei Burano.",
+            "Prânz pe insulă.",
+            "Întoarcere în Veneția în timpul serii.",
+            "Seara: Activități de grup sau timp liber."
+          ]
+        },
+        {
+          "day": "Ziua 5",
+          "title": " 20 septembrie- Ultima zi și Întoarcerea",
+          "steps": [
+            "Mic dejun la hotel și check-out.",
+            "Timp liber pentru cumpărături sau vizite de ultim moment.",
+            "Întâlnire pentru plecare la ora 11:00.",
+            "Plecare din Veneția cu autocarul.",
+            "Călătorie înapoi spre București."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "title": "Detaliile suplimentare sunt afișate doar la excursiile deschise pentru înscriere, întrucât acestea variază de la o ediție la alta.",
+          "step": []
+        }
+      ]
+    },
+    {
+      "imageUrl": "/cardImages/budapestaCard3.jpg",
+      "cardTitle": "Budapesta",
+      "cardDescription": "Excursia în Budapesta, în perioada 13-16 septembrie s-a finalizat.",
+      "cardSubtitle": "13 - 16 Septembrie",
+      "path": "ExcursieBudapesta13-16.09.2023",
+      "formLink": "",
+      "title": " Excursie în Budapesta",
+      "description": "Îmbrățișați farmecul acestui oraș captivant, cu băi termale relaxante, clădiri impresionante și o viață de noapte animată. Vizitați ruinele băilor și descoperiți cultura și bucătăria maghiară autentică, alături de un grup entuziast de tineri dornici să trăiască aventura împreună.",
+      "schedule": [
+        {
+          "day": "Ziua 1",
+          "title": "13 Septembrie - Plecarea din București",
+          "steps": [
+            "Plecare din București cu autocarul către Budapesta în jurul orei 21:00",
+            "Timp estimat de călătorie: aproximativ 14 -16 ore, în funcție de trafic și formalitățile de frontieră.",
+            "Va fi nevoie să aveți asupra dvs. pașaport sau carte de identitate valabilă."
+          ]
+        },
+        {
+          "day": "Ziua 2",
+          "title": "14 Septembrie- Explorarea orașului Budapesta",
+          "steps": [
+            "Sosire în Budapesta (în jurul orei 12:00)",
+            "Transfer la hotel și check-in, iar ulterior vizitarea principalelor atracții ale orașului:",
+            "Se va vizita: Podul cu Lanțuri (Széchenyi Lánchíd), Castelul Buda și Bastionul Pescarilor",
+            "Seara se va organiza o croazieră pentru a admira o altă față a Budapestei de pe Dunăre într-o croazieră turistică cu o băutură de bun venit (costul este de aproximativ 60RON). Vom admira faimoasele poduri, Castelul Buda și Várkert Bazár și priveliștile panoramice."
+          ]
+        },
+        {
+          "day": "Ziua 3",
+          "title": "15 Septembrie - Băile termale ",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Dimineața la ora 10:30, se plecă spre băile termale Széchenyi - cele mai mari și cele mai cunoscute băi termale din Budapesta. Biletul de intrare costă aproximativ 9400HUF (130RON).  Plecarea de la băile termale Széchenyi va fi în jurul orei 16:30.",
+            "Petrecerea de tip THE LONGEST RUNNING PUB CRAWL & RUIN BAR TOUR IN BUDAPEST , participarea costă aproximativ 7300HUF (100RON)."
+          ]
+        },
+        {
+          "day": "Ziua 4",
+          "title": "16 Septembrie- Timp liber și întoarcerea spre București",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Dimineața și prânzul vor fi libere pentru a explora în continuare orașul sau pentru a face cumpărături. ​",
+            "La ora 15:00, începeți călătoria de întoarcere către București cu autocarul."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "title": "Detaliile suplimentare sunt afișate doar la excursiile deschise pentru înscriere, întrucât acestea variază de la o ediție la alta.",
+          "step": []
+        }
+      ]
+    },
+    {
+      "imageUrl": "/cardImages/thassosCard.jpg",
+      "cardTitle": "Insula Thassos",
+      "cardDescription": "Inscrierile la excursia în insula Thassos, în perioada 1-5 septembrie, s-au încheiat.",
+      "cardSubtitle": "1 - 5 Septembrie",
+      "path": "ExcursieInsulaThassos",
+      "formLink": "",
+      "title": " Excursie în Insula Thassos",
+      "description": "Aventurați-vă într-un paradis insular cu plaje spectaculoase și ape cristaline. Descoperiți istoria și cultura acestei insule pitorești, savurați bucatele locale delicioase și petreceți nopțile alături de prieteni la petreceri pe plajă. Toate acestea sunt posibile în cadrul unui grup entuziast de tineri care împărtășesc aceeași pasiune pentru călătorii!",
+      "schedule": [
+        {
+          "day": "Ziua 1",
+          "title": "31 august (seara) - Plecare din București",
+          "steps": [
+            "Ora 20:00 - Plecare din București cu autocarul, drumul cu autocarul poate dura până la 14-15 ore.",
+            "Va fi nevoie să aveți asupra dvs. pașaport sau carte de identitate valabilă"
+          ]
+        },
+        {
+          "day": "Ziua 2",
+          "title": "1 septembrie - Sosire în Thassos și plajă",
+          "steps": [
+            "Dimineața devreme - Ajungerea în portul Kavala și îmbarcarea pe ferry către insula Thassos.",
+            "Sosire pe insulă și transfer la cazare în Golden Beach.",
+            "Timp liber pentru relaxare pe plajă sau în zona Golden Beach.",
+            "Echipamentul de snorkeling este pus la dispoziție de TineroVoyage."
+          ]
+        },
+        {
+          "day": "Ziua 3",
+          "title": "2 septembrie - Excursii și descoperire",
+          "steps": [
+            "Dimineața, la ora 09:30 se plecă cu autocarul către piscina naturală Giola.",
+            "Giola este o piscină naturală în forma de inimă sculptată în stâncă, cu apă cristalină. Grupul se poate relaxa, înnota și să se bucure de peisajul spectaculos. Există și zone pentru a sta la soare sau a face snorkeling.",
+            "Seara:  Petrecere pe plaja cu grupul."
+          ]
+        },
+        {
+          "day": "Ziua 4",
+          "title": "3 septembrie - Croazieră cu vaporul și snorkeling",
+          "steps": [
+            "Dimineața devreme la ora 09:00 se pleacă către portul Limenas pentru croaziera cu vaporul în jurul insulei.",
+            "Timpul petrecut pe vapor va include:",
+            "Plimbare pe coasta pitorească a insulei Thassos.",
+            "Pauză pentru snorkeling într-un loc minunat cu recifuri de coral sau pești colorați.",
+            "Masa inclusă la bordul vaporului, cu preparate locale delicioase.",
+            "Ocazia de a admira peisajele spectaculoase și de a face fotografii memorabile.",
+            "Întoarcere în portul Limenas după-amiază.",
+            "Seara: Petrecere la unul din cele mai cunoscute cluburi din Thassos - Karnagio Bar."
+          ]
+        },
+        {
+          "day": "Ziua 5",
+          "title": "4 septembrie - Explorarea insulei",
+          "steps": [
+            "Dimineața, la ora 09:30 se plecă cu autocarul către Limenas pentru a vizita obiectivele și plajă.",
+            "Obiectivele ce vor fi vizitate:",
+            "Portul din Limenas​​",
+            "Muzeul Arheologic",
+            "Vechiul Oraș",
+            "Agora Antică",
+            "Amfiteatrul Vechi",
+            "Plaja din Limenas",
+            "Întoarcerea către cazare și pregătirea pentru cina de grup ce va avea loc la Alexandra Restaurant Limenas"
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "title": "Detaliile suplimentare sunt afișate doar la excursiile deschise pentru înscriere, întrucât acestea variază de la o ediție la alta.",
+          "step": []
+        }
+      ]
+    },
+    {
+      "imageUrl": "/cardImages/vienaCard.jpg",
+      "cardTitle": "Viena",
+      "cardDescription": "Înscrierile la excursia la Viena, în perioada 11-15 august, s-au încheiat.",
+      "cardSubtitle": "11 - 15 August",
+      "path": "ExcursieVienaSeptembrie",
+      "formLink": "",
+      "title": " Excursie în Viena",
+      "description": "Un concert de cultură și distracție: Într-un cadru de poveste, Viena vă întâmpină cu arhitectura sa elegantă și muzica clasică de excepție. Vizitați palate magnifice, bucurați-vă de cafeaua vieneză tradițională și bucurați-vă de petrecerile pline de viață ale acestui oraș vibrant, împreună cu un grup de tineri dornici să descopere această minunată destinație.",
+      "schedule": [
+        {
+          "day": "Ziua 1",
+          "title": "11 august (seara) - Plecare din București",
+          "steps": [
+            "Plecare din București cu autocarul către Viena în jurul orei 21:00.",
+            "Timp estimat de călătorie: aproximativ 14-16 ore, în funcție de trafic și formalitățile de frontieră.",
+            "Va fi nevoie să aveți asupra dvs. pașaport sau carte de identitate valabilă."
+          ]
+        },
+        {
+          "day": "Ziua 2",
+          "title": "12 august - Descoperirea orașului Viena",
+          "steps": [
+            "Sosire în Viena la prânz (în jurul orei 12:00).",
+            "Transfer la hotel și check-in.",
+            "Vizitarea Palatului Schönbrunn - o importantă atracție istorică și culturală din Viena.",
+            "Grădinile Palatului Schönbrunn și labirintul din apropiere.",
+            "Cina în oraș sau la hotel.",
+            "Jocuri de societate, activități de grup."
+          ]
+        },
+        {
+          "day": "Ziua 3",
+          "title": "13 august - Atracții și cultura Vienei",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Vizitarea Catedralei Sfântul Ștefan - o capodoperă a arhitecturii gotice.",
+            "Seara se va organiza o plimbare prin oraș cu tot grupul.",
+            "Muzeul de Artă Istorică din Viena - pentru a admira colecții impresionante de artă și antichități.",
+            "Prânz într-un restaurant local.",
+            "Vizitarea Palatului Belvedere - cu o colecție impresionantă de artă și grădini frumoase.",
+            "Orașul Vechi din Viena - pentru a explora străzile sale încântătoare și cafenelele tradiționale.",
+            "Petrecerea de grup care va fi de tip Pub Crawl In Vienna, participarea costă 25 euro."
+          ]
+        },
+        {
+          "day": "Ziua 4",
+          "title": "14 august - Zi de relaxare și distracție",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Începând cu ora 10:30 vom pleca spre Prater, un parc de distracții cu faimosul său roată panoramică gigantă, celebrul muzeu Madame Tussauds și multe alte atracții.​",
+            "Vizita Castelului  Hofburg - reședința imperială a familiei Habsburgice.​",
+            "Cina în oraș cu grupul."
+          ]
+        },
+        {
+          "day": "Ziua 5",
+          "title": "15 august - Întoarcerea în București",
+          "steps": [
+            "Mic dejun la hotel și check-out.",
+            "Dimineața va fi liberă pentru ultimele activități sau cumpărături.",
+            "în jurul orei 15:00 se începe călătoria de întoarcere către București cu autocarul."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "title": "Detaliile suplimentare sunt afișate doar la excursiile deschise pentru înscriere, întrucât acestea variază de la o ediție la alta.",
+          "step": []
+        }
+      ]
+    },
+    {
+      "imageUrl": "/cardImages/budapestaCard2.jpg",
+      "cardTitle": "Budapesta",
+      "cardDescription": "Înscrierile în excursia la Budapesta, desfășurată în perioada 5-8 august, s-au încheiat.",
+      "cardSubtitle": "5 - 8 August",
+      "path": "ExcursieBudapestaAugust",
+      "formLink": "",
+      "title": " Excursie în Budapesta",
+      "description": "Îmbrățișați farmecul acestui oraș captivant, cu băi termale relaxante, clădiri impresionante și o viață de noapte animată. Vizitați ruinele băilor și descoperiți cultura și bucătăria maghiară autentică, alături de un grup entuziast de tineri dornici să trăiască aventura împreună.",
+      "schedule": [
+        {
+          "day": "Ziua 1",
+          "title": "4 august - Plecarea din București",
+          "steps": [
+            "Plecare din București cu autocarul către Budapesta în jurul orei 21:00",
+            "Timp estimat de călătorie: aproximativ 14 -16 ore, în funcție de trafic și formalitățile de frontieră.",
+            "Va fi nevoie să aveți asupra dvs. pașaport sau carte de identitate valabilă."
+          ]
+        },
+        {
+          "day": "Ziua 2",
+          "title": "5 august - Explorarea orașului Budapesta",
+          "steps": [
+            "Sosire în Budapesta în jurul orei 12:00.",
+            "Transfer la hotel și check-in, iar ulterior vizitarea principalelor atracții ale orașului:.",
+            "Parlamentul Ungariei - unul dintre cele mai frumoase și mai mari parlamente din lume.",
+            "Bastionul Pescarilor - un loc minunat pentru a avea o panoramă asupra orașului.",
+            "Podul cu Lanțuri - unul dintre cele mai cunoscute poduri din Budapesta.",
+            "Cina în oraș pentru a degusta bucatele tradiționale maghiare.",
+            "Seara se va organiza o croazieră pentru a admira o altă față a Budapestei de pe Dunăre într-o croazieră turistică cu o băutură de bun venit (costul este de aproximativ 60RON). Vom admira faimoasele poduri, Castelul Buda și Várkert Bazár și priveliștile panoramice."
+          ]
+        },
+        {
+          "day": "Ziua 3",
+          "title": "6 august - Băile termale",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Dimineața la ora 10:30, se plecă spre băile termale Széchenyi - cele mai mari și cele mai cunoscute băi termale din Budapesta. Biletul de intrare costă aproximativ 9400HUF (130RON).  Plecarea de la băile termale Széchenyi va fi în jurul orei 16:30.",
+            "Cina în oraș sau la hotel.",
+            "Petrecerea de tip THE LONGEST RUNNING PUB CRAWL & RUIN BAR TOUR IN BUDAPEST , participarea costă aproximativ 7300HUF (100RON)"
+          ]
+        },
+        {
+          "day": "Ziua 5",
+          "title": "7 august - Timp liber și întoarcerea spre București",
+          "steps": [
+            "Mic dejun la hotel și check-out.",
+            "Continuați să explorați Budapesta în timpul zilei, seara ne vom pregăti pentru intoarcerea spre București (ora plecării se va fixa în funcție de starea vremii și a drumurilor)."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "title": "Detaliile suplimentare sunt afișate doar la excursiile deschise pentru înscriere, întrucât acestea variază de la o ediție la alta.",
+          "step": []
+        }
+      ]
+    },
+    {
+      "imageUrl": "/cardImages/budapestaCard.jpg",
+      "cardTitle": "Budapesta",
+      "cardDescription": "Înscrierile în excursia la Budapesta, desfășurată în perioada 5-8 august, s-au încheiat.",
+      "cardSubtitle": "Budapesta",
+      "path": "ExcursieBudapesta5-8August",
+      "formLink": "",
+      "title": " Revelion în Budapesta 28 Decembrie - 2 Ianuarie",
+      "description": "Revelionul la Budapesta: O experiență fascinantă într-un oraș plin de magie. Descoperă cele mai mari băi termale din Europa, admiră arhitectura uimitoare și petrece Noaptea de Revelion într-un eveniment Pub Crawl memorabil. Rezervă-ți locul acum și fă parte dintr-o aventură festivă la începutul noului an în Budapesta.",
+      "schedule": [
+        {
+          "day": "Ziua 1",
+          "title": "28 decembrie - Plecare din București",
+          "steps": [
+            "Plecare din București cu autocarul către Budapesta în jurul orei 22:00",
+            "Timp estimat de călătorie: aproximativ 14 -16 ore, în funcție de trafic și formalitățile de frontieră.",
+            "Va fi nevoie să aveți asupra dvs. pașaport sau carte de identitate valabilă."
+          ]
+        },
+        {
+          "day": "Ziua 2",
+          "title": "29 decembrie - Sosire în Budapesta",
+          "steps": [
+            "Sosire în Budapesta în jurul orei 12:00. Check-in la hotelul Millennium sau echivalent.",
+            "Masa de prânz la un restaurant tradițional.",
+            "Se va vizita: Podul cu Lanțuri (Széchenyi Lánchíd), Castelul Buda și Bastionul Pescarilor",
+            "Seara se va organiza o croazieră pentru a admira o altă față a Budapestei de pe Dunăre într-o croazieră turistică cu o băutură de bun venit (costul este de aproximativ 60RON). Vom admira faimoasele poduri, Castelul Buda și Várkert Bazár și priveliștile panoramice."
+          ]
+        },
+        {
+          "day": "Ziua 3",
+          "title": "30 decembrie - Zi de relaxare",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Dimineața la ora 10:30, se plecă spre băile termale Széchenyi - cele mai mari și cele mai cunoscute băi termale din Budapesta. Biletul de intrare costă aproximativ 9400HUF (130RON).  Plecarea de la băile termale Széchenyi va fi în jurul orei 16:30.",
+            "Seara se va organiza o plimbare prin oraș cu tot grupul."
+          ]
+        },
+        {
+          "day": "Ziua 4",
+          "title": "31 decembrie - Pregătire pentru Revelion",
+          "steps": [
+            "Mic dejun la hotel.",
+            "Se pot vizita cele mai importante atracții din Budapesta, precum: Muzeul Etnografic Maghiar, Piața Deák Ferenc, Parlamentul Ungariei​",
+            "Seara de Revelion: Participați la un eveniment Pub Crawl special de Revelion în Budapesta. Acesta vă va oferi ocazia de a experimenta atmosfera festivă a orașului și de a vizita mai multe baruri și cluburi populare."
+          ]
+        },
+        {
+          "day": "Ziua 5",
+          "title": "1 ianuarie - Timp liber și întoarcerea spre București",
+          "steps": [
+            "Mic dejun la hotel și check-out.",
+            "Continuați să explorați Budapesta în timpul zilei, seara ne vom pregăti pentru intoarcerea spre București (ora plecării se va fixa în funcție de starea vremii și a drumurilor)."
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "title": "Pretul excursiei tale este de  299 euro și cuprinde:",
+          "step": [
+            "Transportul cu autocarul pe ruta București - Budapesta - București",
+            "Cazarea timp de 3 nopți la hotel în camere de 2,3 și 4 persoane",
+            "Mic dejun de tip bufet suedez",
+            "Consultanță și îndrumare pentru vizitarea orașului pe parcursul călătoriei;"
+          ]
+        },
+        {
+          "title": "In prețul excursiei nu este inclus: ",
+          "step": [
+            "Asigurare medicală;",
+            "Intrările la obiective și petrecerea din Noaptea de Revelion;"
+          ]
+        },
+        {
+          "title": "După completarea formularului de înscriere, vei primi confirmarea acceptării prin email, împreună cu toate detaliile necesare privind achitarea excursiei.",
+          "step": []
+        },
+        {
+          "title": "Excursia poate fi achitată în 3 rate. Prima tranșă de 100 euro la maximum 15 zile de la confirmarea participării, a doua tranșă de 100 de euro până la data de 15 Noiembrie, iar ultima tranșă de 99 euro până la data de 4 Decembrie.",
+          "step": []
+        }
+      ]
+    }
+  ]
+}
